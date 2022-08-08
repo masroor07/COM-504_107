@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.masroor</groupId>
-    <artifactId>docker-jenkins-itegration-updated</artifactId>
+    <artifactId>docker-jenkins-itegration</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,6 +13,6 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
     <build>
-        <finalName>Docker jenkins integration</finalName>
+        <finalName>Docker jenkins integration V2</finalName>
     </build>
 </project>
