@@ -3,5 +3,7 @@ public class Main {
         System.out.println("hello");
         System.out.println("testing");
         System.out.println("Masroor");
+        System.out.println("New line");
+
     }
 }
