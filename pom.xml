@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.masroor</groupId>
-    <artifactId>docker-jenkins-itegration</artifactId>
+    <artifactId>docker-jenkins-itegration-updated</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
